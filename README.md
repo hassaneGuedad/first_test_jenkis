@@ -29,11 +29,11 @@ Projet réalisé dans le cadre du TP Jenkins CI/CD.
 
 ## Screenshots
 
-<img width="958" height="444" alt="CAP2" src="https://github.com/user-attachments/assets/97f7aade-fdfd-40a4-a0d0-e28503c036ca" />
-
-<img width="958" height="444" alt="CAP2" src="https://github.com/user-attachments/assets/a39df6fc-a170-4333-92c4-6fda99c331d3" />
+<img width="960" height="442" alt="cap3" src="https://github.com/user-attachments/assets/77185b9e-a8d3-4be5-8166-4a22866eaa37" />
 
 
-<img width="955" height="482" alt="cap1" src="https://github.com/user-attachments/assets/5b0e291c-143f-4c70-a910-28a0efe41b8b" />
+<img width="955" height="482" alt="cap1" src="https://github.com/user-attachments/assets/bedceff8-a91d-4109-a54c-88f5f4d11005" />
 
+
+<img width="958" height="444" alt="CAP2" src="https://github.com/user-attachments/assets/1398d376-f171-4525-a3fc-8281ccf35dbf" />
 
